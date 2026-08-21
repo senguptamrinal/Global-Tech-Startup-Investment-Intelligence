@@ -176,7 +176,6 @@ The data architecture in Power BI is organized using an optimized **Star Schema*
   - $\text{Layoff Rate \%} = \frac{\sum \text{Layoffs}}{\sum \text{Peak Headcount}} \times 100$[cite: 5]
   - $\text{Headcount Retention \%} = \frac{\sum \text{Current Headcount}}{\sum \text{Peak Headcount}} \times 100$[cite: 5]
 
-> 📌 *The complete data model diagram is available under the `07_Images` directory.*
 
 ---
 
