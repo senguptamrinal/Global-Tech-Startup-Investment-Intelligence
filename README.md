@@ -19,7 +19,7 @@
 
 **Global Tech Startup Financial & Investment Intelligence** is an end-to-end Business Analytics portfolio project analyzing **25,000 technology companies** across global markets.
 
-This project simulates a full institutional Venture Capital (VC) & Private Equity (PE) analytical engagement. It covers the entire Business Analyst lifecycle—from business problem framing and requirement gathering (BRD & FRD) to SQL metric engineering, dimensional Power BI modeling, and investment due diligence recommendations[cite: 3, 4, 5].
+This project simulates a full institutional Venture Capital (VC) & Private Equity (PE) analytical engagement. It covers the entire Business Analyst lifecycle—from business problem framing and requirement gathering (BRD & FRD) to SQL metric engineering, dimensional Power BI modeling, and investment due diligence recommendations.
 
 The solution provides investment committees, venture partners, and portfolio managers with a centralized intelligence platform to assess capital efficiency, monitor cash burn and runway, detect valuation premiums, and evaluate workforce risk.
 
